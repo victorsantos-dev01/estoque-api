@@ -1,0 +1,6 @@
+[submodule "estoque-contracts"]
+	path = estoque-contracts
+	url = https://github.com/victorsantos-dev01/estoque-contracts.git
+[submodule "estoque-infra-config"]
+	path = estoque-infra-config
+	url = https://github.com/victorsantos-dev01/estoque-infra-config.git
